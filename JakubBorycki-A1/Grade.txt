@@ -1,0 +1,2 @@
+29/30 
+Q3: You also need to assume there is only one office per city+zipcode

@@ -1,0 +1,7 @@
+29/30
+There should be 7 relationships in the ERD. (-1)
+    There three connections between order that link to salesreps, customers and products
+    There are two relationship in salesreps. One is the recursive relationship between salesreps and itself and another one is the relationship between salesreps and offices.
+   There is one relation between customers and salesreps
+   there are two relationships between salesreps and office. One is through rep-office to office and another is through 
+mgr to empl-num
